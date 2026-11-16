@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Blocks
+
+**Embryo Blocks** is Embryo-Zero's fork of [Microsoft MakeCode (PXT)](https://github.com/microsoft/pxt), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Microsoft MakeCode
 
 * [Try out the editors in your browser...](https://makecode.com)
